@@ -1,4 +1,7 @@
 Revision history for Perl extension Template::Plugin::StripComments
 
+1.01    Fri Apr 23 22:14 PDT 2010
+    - Switch to Git
+
 1.00    Sun Dec  2 17:21 PDT 2007
     - original version
