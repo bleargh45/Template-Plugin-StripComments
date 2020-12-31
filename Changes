@@ -3,6 +3,7 @@ Revision history for Perl extension Template::Plugin::StripComments
 {{$NEXT}}
     - Switch to Dist::Zilla for release management
     - POD cleanups; whitespace, spelling
+    - Move to GitHub
 
 1.01    Fri Apr 23 22:14 PDT 2010
     - Switch to Git
