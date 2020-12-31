@@ -81,11 +81,11 @@ The following types of comment blocks are stripped:
 
 =item init()
 
-Initializes the template plugin. 
+Initializes the template plugin.
 
 =item filter($text)
 
-Filters the given text, removing comment blocks as necessary. 
+Filters the given text, removing comment blocks as necessary.
 
 =back
 

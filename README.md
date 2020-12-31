@@ -30,11 +30,11 @@ The following types of comment blocks are stripped:
 
 - init()
 
-    Initializes the template plugin. 
+    Initializes the template plugin.
 
 - filter($text)
 
-    Filters the given text, removing comment blocks as necessary. 
+    Filters the given text, removing comment blocks as necessary.
 
 # AUTHOR
 
