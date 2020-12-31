@@ -1,6 +1,6 @@
 # NAME
 
-Template::Plugin::StripComments - TT filter to strip comment blocks
+Template::Plugin::StripComments - Template Toolkit filter to strip comment blocks
 
 # SYNOPSIS
 
@@ -18,8 +18,8 @@ Template::Plugin::StripComments - TT filter to strip comment blocks
 
 # DESCRIPTION
 
-`Template::Plugin::StripComments` is a filter plugin for TT, which strips
-comment blocks from the filtered text.
+`Template::Plugin::StripComments` is a filter plugin for [Template::Toolkit](https://metacpan.org/pod/Template%3A%3AToolkit),
+which strips comment blocks from the filtered text.
 
 The following types of comment blocks are stripped:
 

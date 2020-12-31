@@ -46,7 +46,7 @@ sub filter {
 
 =head1 NAME
 
-Template::Plugin::StripComments - TT filter to strip comment blocks
+Template::Plugin::StripComments - Template Toolkit filter to strip comment blocks
 
 =head1 SYNOPSIS
 
@@ -62,8 +62,8 @@ Template::Plugin::StripComments - TT filter to strip comment blocks
 
 =head1 DESCRIPTION
 
-C<Template::Plugin::StripComments> is a filter plugin for TT, which strips
-comment blocks from the filtered text.
+C<Template::Plugin::StripComments> is a filter plugin for L<Template::Toolkit>,
+which strips comment blocks from the filtered text.
 
 The following types of comment blocks are stripped:
 
